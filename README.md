@@ -106,12 +106,12 @@ By following these steps and guidelines, you'll be well-equipped to embark on yo
 These are a few screenshotes attached of the working chatbot for reference.
 
 1.
-![Screenshot (312)](https://github.com/anushkaspatil/llama3-chatbot/assets/103093836/569693d1-b0fe-4f12-ada2-04ec8b5149d8)
+![image](https://github.com/user-attachments/assets/21b4392a-df00-4c52-a711-505efcf39d7c)
 
 
 
 2.
-![Screenshot (311)](https://github.com/anushkaspatil/llama3-chatbot/assets/103093836/ba3c156b-6d13-47d3-b7e0-37965433e6fb)
+![image](https://github.com/user-attachments/assets/6601a387-82d2-4649-a4f8-c4540aceb29a)
 
 
 ## **Resources**
